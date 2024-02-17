@@ -1,0 +1,8 @@
+/node_modules
+.ENV
+/client/node_modules
+/client/public
+/client/src
+/client/*.gitignore
+/client/*package*
+/client/*README*
