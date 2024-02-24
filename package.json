@@ -4,8 +4,7 @@
   "description": "the railway ticket booking service which is madeup by using nodejs reactjs expressjs",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "test": "nodemon server.js"
+    "start": "node server.js"
   },
   "author": "shashankpk31",
   "license": "ISC",
