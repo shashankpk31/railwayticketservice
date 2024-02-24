@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/520.cdb00ab1.chunk.js","mappings":"+IAQA,QANA,WACE,OACEA,EAAAA,EAAAA,KAAA,OAAAC,SAAK,gBAET,C","sources":["components/Registration.js"],"sourcesContent":["import React from 'react'\r\n\r\nfunction Registration() {\r\n  return (\r\n    <div>Registration</div>\r\n  )\r\n}\r\n\r\nexport default Registration"],"names":["_jsx","children"],"sourceRoot":""}

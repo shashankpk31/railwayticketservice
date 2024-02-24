@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[876],{876:(n,e,t)=>{t.r(e),t.d(e,{default:()=>l});var c=t(60),s=t(496);const i=(0,c.lazy)((()=>t.e(608).then(t.t.bind(t,608,17))));const l=function(){return(0,s.jsx)("div",{children:(0,s.jsx)("img",{src:i,alt:"page not found"})})}}}]);
+//# sourceMappingURL=876.ef262e57.chunk.js.map

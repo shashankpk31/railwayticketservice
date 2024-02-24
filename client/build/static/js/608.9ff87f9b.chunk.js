@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[608],{608:(e,i,a)=>{e.exports=a.p+"static/media/loadinggif.0128118e609cb92a69a7.gif"}}]);
