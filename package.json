@@ -5,7 +5,11 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
+<<<<<<< HEAD
     "test": "nodemon server.js"
+=======
+    "build": ""
+>>>>>>> 6fdc0ead3520680b083e35ef68f6b4fb6c28c4a1
   },
   "author": "shashankpk31",
   "license": "ISC",
